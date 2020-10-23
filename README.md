@@ -6,4 +6,5 @@ A list of unofficial STX Mining tools and resources.
    - [Live Demo](https://www.youtube.com/watch?v=Lz1VSlIbMiE)
    - [Documentation for setting up a VM with Virtualbox and Ubuntu](https://app.sigle.io/whoabuddy.id.blockstack/6ZSqK6yEwu5bqqGCjOZZH)
    
--  
+-  Rasberry Pi distribution
+   - [StackPackOS](https://gitlab.com/riot.ai/stackspack)
